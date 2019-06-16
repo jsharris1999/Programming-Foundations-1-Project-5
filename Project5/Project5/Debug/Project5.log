@@ -1,0 +1,13 @@
+﻿  Project5.cpp
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project5\project5\project5.cpp(43): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project5\project5\project5.cpp(55): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project5\project5\project5.cpp(67): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project5\project5\project5.cpp(79): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project5\project5\project5.cpp(91): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project5\project5\project5.cpp(103): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project5\project5\project5.cpp(115): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project5\project5\project5.cpp(127): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project5\project5\project5.cpp(139): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project5\project5\project5.cpp(151): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project5\project5\project5.cpp(172): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project5.vcxproj -> C:\Users\jared\Desktop\School Work\2018-2019 School Work\Programming Foundations I\Project5\Debug\Project5.exe
